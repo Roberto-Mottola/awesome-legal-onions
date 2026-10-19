@@ -1,8 +1,8 @@
 {
     "source": "https://umbrixa.com",
     "license": "CC-BY-4.0",
-    "generated_at": "2026-10-19T11:31:11+00:00",
-    "count": 550,
+    "generated_at": "2026-10-19T11:40:09+00:00",
+    "count": 479,
     "sites": [
         {
             "id": 559,
@@ -39,30 +39,6 @@
             "online": false,
             "last_checked": "2026-10-18 00:28:11",
             "umbrixa_url": "https://umbrixa.com/site/134-cpnk"
-        },
-        {
-            "id": 44,
-            "title": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
-            "onion_url": "http://archivep75mbjunhxc6x4j5mwjmomyxb573v42baldlqu56ruil2oiad.onion",
-            "clearnet_url": "https://archive.org",
-            "category": "academic-resources",
-            "description": "",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-19 00:20:41",
-            "umbrixa_url": "https://umbrixa.com/site/44-internet-archive-digital-library-of-free-borrowable-texts-mo"
-        },
-        {
-            "id": 58,
-            "title": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
-            "onion_url": "https://archivep75mbjunhxc6x4j5mwjmomyxb573v42baldlqu56ruil2oiad.onion",
-            "clearnet_url": null,
-            "category": "academic-resources",
-            "description": "",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-19 06:23:41",
-            "umbrixa_url": "https://umbrixa.com/site/58-internet-archive-digital-library-of-free-borrowable-texts-mo"
         },
         {
             "id": 314,
@@ -353,42 +329,6 @@
             "umbrixa_url": "https://umbrixa.com/site/105-anonymous-email"
         },
         {
-            "id": 78,
-            "title": "Cock-mail",
-            "onion_url": "http://xdkriz6cn2avvcr2vks5lvvtmfojz2ohjzj4fhyuka55mvljeso2ztqd.onion",
-            "clearnet_url": null,
-            "category": "anonymous-services",
-            "description": "",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-17 18:27:16",
-            "umbrixa_url": "https://umbrixa.com/site/78-cock-mail"
-        },
-        {
-            "id": 527,
-            "title": "Disroot webmail :: Benvenuto in Disroot webmail",
-            "onion_url": "http://mdlwkwn2nhzzuymmyr5mjyoqppoyp46k4remaliu2zrmkayl5yfeh7ad.onion",
-            "clearnet_url": null,
-            "category": "anonymous-services",
-            "description": "",
-            "language": "it",
-            "online": false,
-            "last_checked": "2026-10-19 06:16:50",
-            "umbrixa_url": "https://umbrixa.com/site/527-disroot-webmail-benvenuto-in-disroot-webmail"
-        },
-        {
-            "id": 221,
-            "title": "espiv.net Webmail :: Benvenuto in espiv.net Webmail",
-            "onion_url": "http://srbvwe22f6cx4otcskfuzduo2is2xuqmcjfcgbza6yvs4ic2dzbabkqd.onion",
-            "clearnet_url": null,
-            "category": "anonymous-services",
-            "description": "",
-            "language": "it",
-            "online": true,
-            "last_checked": "2026-10-18 12:08:11",
-            "umbrixa_url": "https://umbrixa.com/site/221-espiv-net-webmail-benvenuto-in-espiv-net-webmail"
-        },
-        {
             "id": 248,
             "title": "freemail & URL Shortner",
             "onion_url": "http://freemaild77oyjrldgjyqrdyfhald5jshrfopfl54naflibq7yupalqd.onion",
@@ -411,30 +351,6 @@
             "online": true,
             "last_checked": "2026-10-19 00:06:52",
             "umbrixa_url": "https://umbrixa.com/site/459-hidden-monk-bin"
-        },
-        {
-            "id": 270,
-            "title": "Home — Cock.li E-mail Hosting",
-            "onion_url": "http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion",
-            "clearnet_url": "https://cock.li/",
-            "category": "anonymous-services",
-            "description": "",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-19 06:13:45",
-            "umbrixa_url": "https://umbrixa.com/site/270-home-cock-li-e-mail-hosting"
-        },
-        {
-            "id": 47,
-            "title": "mail.riseup.net :: Benvenuto in mail.riseup.net",
-            "onion_url": "http://5gdvpfoh6kb2iqbizb37lzk2ddzrwa47m6rpdueg2m656fovmbhoptqd.onion",
-            "clearnet_url": null,
-            "category": "anonymous-services",
-            "description": "",
-            "language": "it",
-            "online": true,
-            "last_checked": "2026-10-19 00:21:28",
-            "umbrixa_url": "https://umbrixa.com/site/47-mail-riseup-net-benvenuto-in-mail-riseup-net"
         },
         {
             "id": 532,
@@ -471,30 +387,6 @@
             "online": true,
             "last_checked": "2026-10-18 12:10:32",
             "umbrixa_url": "https://umbrixa.com/site/231-privex-secure-private-vps-and-dedicated-server-hosting"
-        },
-        {
-            "id": 48,
-            "title": "Roundcube Webmail :: Benvenuto in Roundcube Webmail",
-            "onion_url": "http://jymhbez5sqlcsmykpvdat7uv6tc4cpb36hq3bdabjm7xvsh2jyrfnhyd.onion",
-            "clearnet_url": null,
-            "category": "anonymous-services",
-            "description": "",
-            "language": "it",
-            "online": true,
-            "last_checked": "2026-10-19 00:21:33",
-            "umbrixa_url": "https://umbrixa.com/site/48-roundcube-webmail-benvenuto-in-roundcube-webmail"
-        },
-        {
-            "id": 141,
-            "title": "Webmail bitemail.net :: Benvenuto in Webmail bitemail.net",
-            "onion_url": "http://shsaarrdrvbmvkn3jo2swe6gysfykorovfwibenhqa6ilsztg3yzpiyd.onion",
-            "clearnet_url": null,
-            "category": "anonymous-services",
-            "description": "",
-            "language": "it",
-            "online": true,
-            "last_checked": "2026-10-18 00:29:39",
-            "umbrixa_url": "https://umbrixa.com/site/141-webmail-bitemail-net-benvenuto-in-webmail-bitemail-net"
         },
         {
             "id": 178,
@@ -593,18 +485,6 @@
             "umbrixa_url": "https://umbrixa.com/site/312-introduction"
         },
         {
-            "id": 402,
-            "title": "Home page",
-            "onion_url": "http://5v2fzjlnjwxdo25xlaj5ciqgzu3v4xtobxsiizbjoqwpq3n4utq3d4qd.onion",
-            "clearnet_url": null,
-            "category": "community-forums",
-            "description": "miniDebConf India 2022",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:19:11",
-            "umbrixa_url": "https://umbrixa.com/site/402-home-page"
-        },
-        {
             "id": 263,
             "title": "OpenBSD Resources",
             "onion_url": "http://oqptm57xf2g6mziwphlf7eqmkdg3ni6qneuuf3wbqzhdfcjufhumaxyd.onion",
@@ -689,18 +569,6 @@
             "umbrixa_url": "https://umbrixa.com/site/467-exilio404"
         },
         {
-            "id": 284,
-            "title": "Home page",
-            "onion_url": "http://a6edt446yugmd5m7ym2ffwu63mofe2z66ttnk3v7v6jrdsjcyubg3yyd.onion",
-            "clearnet_url": "https://wiki.debian.org/DebianIndia/MiniDebConfTamilNadu2023/",
-            "category": "community-forums",
-            "description": "miniDebConf Tamil Nadu 2023",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:30:38",
-            "umbrixa_url": "https://umbrixa.com/site/284-home-page"
-        },
-        {
             "id": 416,
             "title": "Sobre a MiniDebConf Maceió",
             "onion_url": "http://do4sbqtt6pgdu2qktvxi26vmrwjfqhpojtfmfokclpfud6i7j4ebhnad.onion",
@@ -771,18 +639,6 @@
             "online": false,
             "last_checked": "2026-10-19 06:25:03",
             "umbrixa_url": "https://umbrixa.com/site/315-def-con-groups-def-con-forums"
-        },
-        {
-            "id": 42,
-            "title": "Facebook",
-            "onion_url": "http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion",
-            "clearnet_url": "https://www.facebook.com",
-            "category": "community-forums",
-            "description": "",
-            "language": "it",
-            "online": false,
-            "last_checked": "2026-10-19 00:20:23",
-            "umbrixa_url": "https://umbrixa.com/site/42-facebook"
         },
         {
             "id": 943,
@@ -980,7 +836,7 @@
             "id": 561,
             "title": "New World Order",
             "onion_url": "http://7777777jo3a6i4hyon46lxfld7q7ltutpmtc3yitiirds26cpl3uqxid.onion",
-            "clearnet_url": "http://10.152.152.204",
+            "clearnet_url": null,
             "category": "journalism",
             "description": "New World Order is an instance focused on the evolution of #ConspiracyTheories, #NewWordOrder, #UFO, #BigReset, #ElonMusk, #Tesla, #BigTechCompanies and #Jews influence.",
             "language": "en",
@@ -1085,18 +941,6 @@
             "umbrixa_url": "https://umbrixa.com/site/122-bisq-wiki"
         },
         {
-            "id": 814,
-            "title": "Cash Express",
-            "onion_url": "http://cashexp5qyn6l42ox643blyo5pbtfbmlnsp4ihgmo3vc7hxenzowmsad.onion",
-            "clearnet_url": null,
-            "category": "journalism",
-            "description": "Welcome to Cash Express - the best restaurant in town! Do you remember Yelp? All those situations when you trusted 4.8/5.0 opinions and ended up in a shitty pothouse?",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-19 00:18:58",
-            "umbrixa_url": "https://umbrixa.com/site/814-cash-express"
-        },
-        {
             "id": 363,
             "title": "DebConf 23",
             "onion_url": "http://lybn62gyzy5af245ue3s3ykoegywjgexdv7ptrnnfczn2reaqv23sqqd.onion",
@@ -1167,18 +1011,6 @@
             "online": false,
             "last_checked": "2026-10-19 06:17:23",
             "umbrixa_url": "https://umbrixa.com/site/528-lufi-disroot-file-uploader"
-        },
-        {
-            "id": 357,
-            "title": "Mini DebConf India 2011",
-            "onion_url": "http://fgwzchg2oxrllptbdc6cj6gzsbemgljajbssut2h4qcevgmi2iqa3zqd.onion",
-            "clearnet_url": "https://in2011.mini.debconf.org",
-            "category": "journalism",
-            "description": "[an error occurred while processing this directive] Latest News Mini DebConf Mangalore MiniDebconf India, Mangalore Edition is a 3 day event NMAMIT Nitte (60 Kms from Mangalore, India) on October 28,29 and 30. Travel Info Local Info Schedule Register here! Mini DebConf India 2011 We are planning 201",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 18:10:17",
-            "umbrixa_url": "https://umbrixa.com/site/357-mini-debconf-india-2011"
         },
         {
             "id": 382,
@@ -1299,18 +1131,6 @@
             "online": true,
             "last_checked": "2026-10-17 18:27:08",
             "umbrixa_url": "https://umbrixa.com/site/333-accesso-stefania-maurizi-securedrop"
-        },
-        {
-            "id": 974,
-            "title": "Darknet News",
-            "onion_url": "http://ru7qxkdg3o5mjgk52evfx2gzlb5hmbw7tt3ahaai7lfluopn3iblqgid.onion",
-            "clearnet_url": null,
-            "category": "journalism",
-            "description": "",
-            "language": "en-us",
-            "online": true,
-            "last_checked": "2026-10-19 06:10:27",
-            "umbrixa_url": "https://umbrixa.com/site/974-darknet-news"
         },
         {
             "id": 320,
@@ -1457,18 +1277,6 @@
             "umbrixa_url": "https://umbrixa.com/site/283-bbc-home"
         },
         {
-            "id": 706,
-            "title": "Bitcoin 2000 : What is it? : WikiBTC",
-            "onion_url": "http://invest2qblcy6grketzuzvdrsoh4mjqjnrfc36po6dmcufkax6dvezyd.onion",
-            "clearnet_url": null,
-            "category": "media-culture",
-            "description": "WikiBTC : Bitcoin 2000 Answers : If you're interested in cryptocurrencies, Monero may be a good investment. The price of the currency jumped more than 137% between Jan. 15, 2020, and Jan. 15, 2021. Additionally, it doesn't cost much to start, as you don't need any special hardware. You can actually use the CPU of your own computer to mine it, and Monero works with all major operating systems. This will save you a lot of money in fees and charges. Where Can I Buy Monero? You can purchase Monero through a digital or virtual curre",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 18:16:44",
-            "umbrixa_url": "https://umbrixa.com/site/706-bitcoin-2000-what-is-it-wikibtc"
-        },
-        {
             "id": 709,
             "title": "Ethereum Poloniex : What is it? : Dark Crypto",
             "onion_url": "http://invest3fo6ajjz6vchjgv22i7ouh7xo2vcufh6hckjsien6fmp4crcyd.onion",
@@ -1527,18 +1335,6 @@
             "online": false,
             "last_checked": "2026-10-18 00:04:49",
             "umbrixa_url": "https://umbrixa.com/site/779-bank-cryptocurrency-what-is-it-wikibtc"
-        },
-        {
-            "id": 736,
-            "title": "Bio Bitcoin - What is it? - Wiki",
-            "onion_url": "http://invest2efb6jt5wkrcaklywgfelzb7js7s7lnhuuhzrnfxo5wewcv3qd.onion",
-            "clearnet_url": null,
-            "category": "media-culture",
-            "description": "Wiki - Bio Bitcoin Answers -",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 06:31:30",
-            "umbrixa_url": "https://umbrixa.com/site/736-bio-bitcoin-what-is-it-wiki"
         },
         {
             "id": 744,
@@ -1839,18 +1635,6 @@
             "online": true,
             "last_checked": "2026-10-18 00:22:11",
             "umbrixa_url": "https://umbrixa.com/site/113-artemis-blog"
-        },
-        {
-            "id": 59,
-            "title": "Facebook",
-            "onion_url": "https://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion",
-            "clearnet_url": null,
-            "category": "media-culture",
-            "description": "",
-            "language": "it",
-            "online": false,
-            "last_checked": "2026-10-19 06:24:30",
-            "umbrixa_url": "https://umbrixa.com/site/59-facebook"
         },
         {
             "id": 140,
@@ -2273,18 +2057,6 @@
             "umbrixa_url": "https://umbrixa.com/site/61-surveillance-self-defense"
         },
         {
-            "id": 742,
-            "title": "Майнинг Ethereum - What is it? - Crypto",
-            "onion_url": "http://invest2voc2m5kgexseth3lwvaeznyeu3py66thqqmfa7x3h7tfhtqqd.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "Crypto - Майнинг Ethereum Answers - Decentralization isn’t only important for security, but for equality, too. Everyone who engages with the blockchain has the ability to contribute to the system. Furthermore, as each and every transaction is available to view on the public ledger, it makes the network transparent. No corruption, no fraud, and no inequality! Now that you know why decentralization is important, the next part of my What is Blockchain tutorial is going to look at how anonymous the blockchain is! How Anonymous is the",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:02:09",
-            "umbrixa_url": "https://umbrixa.com/site/742-ethereum-what-is-it-crypto"
-        },
-        {
             "id": 145,
             "title": "Feather: A Free Monero Desktop Wallet",
             "onion_url": "http://featherdvtpi7ckdbkb2yxjfwx3oyvr3xjz3oo4rszylfzjdg6pbm3id.onion",
@@ -2309,90 +2081,6 @@
             "umbrixa_url": "https://umbrixa.com/site/214-relatelist-new-era-of-intelligence"
         },
         {
-            "id": 715,
-            "title": "Bitcoin Capitalization - What is it? - Wiki",
-            "onion_url": "http://invest2gq5ee654krtlejqxc3d4ii2ij6uhmmg4brcmke3vatvmlwmad.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "Wiki - Bitcoin Capitalization Answers -",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 06:24:40",
-            "umbrixa_url": "https://umbrixa.com/site/715-bitcoin-capitalization-what-is-it-wiki"
-        },
-        {
-            "id": 651,
-            "title": "Bitcoin Forbes : What is it? : Wikipedia",
-            "onion_url": "http://invest3fa6t3xefvzg3n53xx5wxljt7js4ccfoinkpeq6mwzoy3355id.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "Wikipedia : Bitcoin Forbes Answers :",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-19 06:22:54",
-            "umbrixa_url": "https://umbrixa.com/site/651-bitcoin-forbes-what-is-it-wikipedia"
-        },
-        {
-            "id": 707,
-            "title": "Bitcoin Half : What is it? : TOR WiKi",
-            "onion_url": "http://invest2sj4qywpz6qfxwmkkojgx4sekurmdnq4ocie6nqqlyhgmzwvyd.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "TOR WiKi : Bitcoin Half Answers : Okay, so we know that Ethereum’s global state consists of a mapping between account addresses and the account states. This mapping is stored in a data structure known as a Merkle Patricia tree. A Merkle tree (or also referred as “Merkle trie”) is a type of binary tree composed of a set of nodes with: a large number of leaf nodes at the bottom of the tree that contain the underlying data a set of intermediate nodes, where each node is the hash of its two child nodes",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 18:17:19",
-            "umbrixa_url": "https://umbrixa.com/site/707-bitcoin-half-what-is-it-tor-wiki"
-        },
-        {
-            "id": 737,
-            "title": "Bitcoin Testnet : What is it? : Wiki",
-            "onion_url": "http://invest2hdag2h7qa3pwgwr27qumt4aqt2vssaby66l437x23z4eknlid.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "Wiki : Bitcoin Testnet Answers :",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 12:00:32",
-            "umbrixa_url": "https://umbrixa.com/site/737-bitcoin-testnet-what-is-it-wiki"
-        },
-        {
-            "id": 743,
-            "title": "Bitcoin Генераторы : What is it? : TOR WiKi",
-            "onion_url": "http://invest2mavccgtzkf6r5z2i3nxtni7w5hfza6gehlqftum75podinaid.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "TOR WiKi : Bitcoin Генераторы Answers :",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 12:02:50",
-            "umbrixa_url": "https://umbrixa.com/site/743-bitcoin-what-is-it-tor-wiki"
-        },
-        {
-            "id": 754,
-            "title": "British Bitcoin : What is it? : TOR WiKi",
-            "onion_url": "http://invest2sgmllqtismdiagxu62gjmpdklxdbvfbj3r3jjxcsckfkvxtid.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "TOR WiKi : British Bitcoin Answers :",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 00:07:48",
-            "umbrixa_url": "https://umbrixa.com/site/754-british-bitcoin-what-is-it-tor-wiki"
-        },
-        {
-            "id": 738,
-            "title": "Generation Bitcoin - What is it? - WikiKnowledge",
-            "onion_url": "http://invest2jfm4wpwr5ncvy4kgynh7q3j6pccjfexvwy3p7nne7so6ecpyd.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "WikiKnowledge - Generation Bitcoin Answers -",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 12:01:05",
-            "umbrixa_url": "https://umbrixa.com/site/738-generation-bitcoin-what-is-it-wikiknowledge"
-        },
-        {
             "id": 710,
             "title": "Lurkmore Bitcoin - What is it? - Wiki",
             "onion_url": "http://invest5r7axtrqp3alfm3mjw53yeo2wyrpylkcori5cffxjbj4phspqd.onion",
@@ -2403,54 +2091,6 @@
             "online": false,
             "last_checked": "2026-10-18 18:19:34",
             "umbrixa_url": "https://umbrixa.com/site/710-lurkmore-bitcoin-what-is-it-wiki"
-        },
-        {
-            "id": 759,
-            "title": "Nonce Bitcoin - What is it? - CryptoWiki",
-            "onion_url": "http://invest2ta3b7lexm6fflmpbafvfy3y7tua2qbpsu7srasne63byjj7yd.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "CryptoWiki - Nonce Bitcoin Answers -",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 00:09:05",
-            "umbrixa_url": "https://umbrixa.com/site/759-nonce-bitcoin-what-is-it-cryptowiki"
-        },
-        {
-            "id": 716,
-            "title": "Pull Bitcoin : What is it? : Wikipedia",
-            "onion_url": "http://invest2hfjcmhlgxvlsyxt5gqtrzclvpiv6qje4xpvmlk62kbg7pu3ad.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "Wikipedia : Pull Bitcoin Answers :",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 06:25:21",
-            "umbrixa_url": "https://umbrixa.com/site/716-pull-bitcoin-what-is-it-wikipedia"
-        },
-        {
-            "id": 778,
-            "title": "Ubuntu Ethereum : What is it? : Crypto",
-            "onion_url": "http://invest2rd4m2xpvv6hotjsgd4c6n3galk4n4ev4qsrvakwjdg3zzw7id.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "Crypto : Ubuntu Ethereum Answers : Mining ether Approximately every 12-15 seconds, an Ethereum miner finds a block. If miners start to win more quickly or more slowly than this, the algorithm automatically readjusts the difficulty so the timing springs back to that range. The miners “win” these ether by mining them. Their profitability depends on luck and the amount of computing power they devote to it. Keep the Ethereum working correctly`",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 00:04:16",
-            "umbrixa_url": "https://umbrixa.com/site/778-ubuntu-ethereum-what-is-it-crypto"
-        },
-        {
-            "id": 705,
-            "title": "Получение Bitcoin - What is it? - Crypto",
-            "onion_url": "http://invest2p7kg2yz22fez5j6whhlj5p5o3qnllsx56giu65bzswyil7uid.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "Crypto - Получение Bitcoin Answers -",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 18:16:07",
-            "umbrixa_url": "https://umbrixa.com/site/705-bitcoin-what-is-it-crypto"
         },
         {
             "id": 277,
@@ -2645,18 +2285,6 @@
             "umbrixa_url": "https://umbrixa.com/site/921-1st-north-carolina-cavalry"
         },
         {
-            "id": 739,
-            "title": "Bitcoin Qiwi : What is it? : WikiCrypto",
-            "onion_url": "http://invest2ntk7j4af42eejdkt6enzkprewhsfyl2qpnfkkniz7qwxoy4yd.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "WikiCrypto : Bitcoin Qiwi Answers :",
-            "language": "it",
-            "online": true,
-            "last_checked": "2026-10-18 12:01:12",
-            "umbrixa_url": "https://umbrixa.com/site/739-bitcoin-qiwi-what-is-it-wikicrypto"
-        },
-        {
             "id": 728,
             "title": "Check It Onion",
             "onion_url": "http://checkisep76vf5lf53s64luj7rzyrzrdkiczx4xhefarunksfib5i6id.onion",
@@ -2667,18 +2295,6 @@
             "online": false,
             "last_checked": "2026-10-18 06:29:42",
             "umbrixa_url": "https://umbrixa.com/site/728-check-it-onion"
-        },
-        {
-            "id": 740,
-            "title": "Аккаунт Bitcoin : What is it? : Dark Crypto",
-            "onion_url": "http://invest2opznzkrgkjj2bd2vjn7iupqzemyxp2cqhhogklielotbbljyd.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "Dark Crypto : Аккаунт Bitcoin Answers : The typical process to deploy a contract accounts on the Ethereum blockchain works as follow: The contract is written in a high-level language (e.g., Solidity, Vyper). The code is compiled to bytecode, and ABI (“Application Binary Interface” i.e., a standard way to interact with contracts) is created.",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:01:23",
-            "umbrixa_url": "https://umbrixa.com/site/740-bitcoin-what-is-it-dark-crypto"
         },
         {
             "id": 184,
@@ -3377,18 +2993,6 @@
             "umbrixa_url": "https://umbrixa.com/site/981-scam-list-of-tor"
         },
         {
-            "id": 413,
-            "title": "Home page",
-            "onion_url": "http://2x2rtdijbuqqw3664ktxwsv255m2m4itmhxhpcvmalqhbiztqfckmsqd.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "None",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:29:06",
-            "umbrixa_url": "https://umbrixa.com/site/413-home-page"
-        },
-        {
             "id": 37,
             "title": "The Guardian PGP",
             "onion_url": "https://guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion",
@@ -3869,18 +3473,6 @@
             "umbrixa_url": "https://umbrixa.com/site/193-robertpolsen-onionmail-server"
         },
         {
-            "id": 515,
-            "title": "Checking if wolf...",
-            "onion_url": "http://7gpurrl7besakeh6ml5xkxriamnmt2awbt3u7o5td6lkeocmqujikzad.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "Checking if wolf... Caricamento... Anubis non è riuscito a caricare il suo JavaScript.",
-            "language": "it",
-            "online": true,
-            "last_checked": "2026-10-18 06:14:45",
-            "umbrixa_url": "https://umbrixa.com/site/515-checking-if-wolf"
-        },
-        {
             "id": 924,
             "title": "Controllo se sei un robot...",
             "onion_url": "http://anonyt2afa6ko7wdlomluefed7nmahgi24zb6xcube7iwdqep4q7psad.onion",
@@ -4035,18 +3627,6 @@
             "online": false,
             "last_checked": "2026-10-18 18:02:40",
             "umbrixa_url": "https://umbrixa.com/site/247-unteh4-onionmail-server"
-        },
-        {
-            "id": 339,
-            "title": "Home page",
-            "onion_url": "http://mzhul75t6vmnka65nu2y4cdqfzybcypm2bcdf43b7j7igqgbrbz6f7ad.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "MiniDebConf Toulouse 2024 is a meeting of Debian users and contributors that takes place in Toulouse, France. November 16 and 17, 2024",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:12:12",
-            "umbrixa_url": "https://umbrixa.com/site/339-home-page"
         },
         {
             "id": 273,
@@ -4313,18 +3893,6 @@
             "umbrixa_url": "https://umbrixa.com/site/1002-stopcp"
         },
         {
-            "id": 384,
-            "title": "Mini DebConf India 2013",
-            "onion_url": "http://sofdtz7phy6p6u3tpjax6e5gfyhbndkpdbvwnp5ixk5v6veuvrlsdoqd.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "[an error occurred while processing this directive] You can reach NIT Calicut by bus from Kozhikode (Calicut) bus station (KSRTC or private bus station). From these bus stations go to Palayam Bus station by taking an Autoriksha (fare :Rs.10/ ) and take a bus to NIT Calicut (buses to Mukkam, Areekkod",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 18:31:03",
-            "umbrixa_url": "https://umbrixa.com/site/384-mini-debconf-india-2013"
-        },
-        {
             "id": 338,
             "title": "You Should Use Tor Browser | Whistleblower Aid | SecureDrop",
             "onion_url": "http://kogbxf4ysay2qzozmg7ar45ijqmj2vxrwqa4upzqq2i7sqj7wv7wcdqd.onion",
@@ -4445,18 +4013,6 @@
             "umbrixa_url": "https://umbrixa.com/site/443-index-of-tormessenger"
         },
         {
-            "id": 824,
-            "title": "Security Verification",
-            "onion_url": "http://epato7h7ttmbxmyhwnr5dmufaskkuvwuasdhia3haqg3526fftg2jbad.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "Security Verification Your browser is completing a proof-of-work challenge. This protects the network from automated attacks. Initializing...",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-19 00:19:31",
-            "umbrixa_url": "https://umbrixa.com/site/824-security-verification"
-        },
-        {
             "id": 448,
             "title": "Tor Project -- torproject.org Developers LDAP Search",
             "onion_url": "http://epnxy4oscv3yh2fjwfrvctnjsmj5ta5uxdkq6k2ce7borqvcsk4qxhid.onion",
@@ -4515,30 +4071,6 @@
             "online": true,
             "last_checked": "2026-10-18 12:29:28",
             "umbrixa_url": "https://umbrixa.com/site/423-index-of-test-data"
-        },
-        {
-            "id": 318,
-            "title": "Impreza Security Verification",
-            "onion_url": "https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "Impreza Security Verification Your browser is completing a proof-of-work challenge. This protects the network from automated attacks. Initializing...",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-19 06:26:43",
-            "umbrixa_url": "https://umbrixa.com/site/318-impreza-security-verification"
-        },
-        {
-            "id": 435,
-            "title": "About these specifications - Tor Specifications",
-            "onion_url": "http://i3xi5qxvbrngh3g6o7czwjfxwjzigook7zxzjmgwg5b7xnjcn5hzciad.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-19 00:03:31",
-            "umbrixa_url": "https://umbrixa.com/site/435-about-these-specifications-tor-specifications"
         },
         {
             "id": 328,
@@ -4661,18 +4193,6 @@
             "umbrixa_url": "https://umbrixa.com/site/1040-gate-check"
         },
         {
-            "id": 774,
-            "title": "GLOBAL TOR LINKS - 2026",
-            "onion_url": "http://globalasqvqkp6buzqlgkhnespbkhhlrbuir6hgi54buv3avvvr6esyd.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 00:02:48",
-            "umbrixa_url": "https://umbrixa.com/site/774-global-tor-links-2026"
-        },
-        {
             "id": 133,
             "title": "h.a.c.k.e.a. — hackea.org documentació",
             "onion_url": "http://hackeavw7lge3rj7vwfewaaid7akgmys2vlqggeirtorcg5g6zoawzqd.onion",
@@ -4683,18 +4203,6 @@
             "online": false,
             "last_checked": "2026-10-18 00:27:38",
             "umbrixa_url": "https://umbrixa.com/site/133-h-a-c-k-e-a-hackea-org-documentacio"
-        },
-        {
-            "id": 573,
-            "title": "Hidden Wallet – Tor Anonymous Hidden Bitcoin Wallet",
-            "onion_url": "http://d46a7eischxwsambhaxlgwtkkitnrsrh4lcru4wemeieg3rzkubvmkad.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "",
-            "language": "en-us",
-            "online": true,
-            "last_checked": "2026-10-19 06:10:59",
-            "umbrixa_url": "https://umbrixa.com/site/573-hidden-wallet-tor-anonymous-hidden-bitcoin-wallet"
         },
         {
             "id": 502,
@@ -4755,18 +4263,6 @@
             "online": true,
             "last_checked": "2026-10-18 12:03:13",
             "umbrixa_url": "https://umbrixa.com/site/206-mailum-secure-encrypted-email-service-private-anonymous-emai"
-        },
-        {
-            "id": 878,
-            "title": "Mike's Grand Store – Mike offers best",
-            "onion_url": "http://4yx2akutmkhwfgzlpdxiah7cknurw6vlddlq24fxa3r3ebophwgpvhyd.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "",
-            "language": "en-us",
-            "online": false,
-            "last_checked": "2026-10-18 00:24:45",
-            "umbrixa_url": "https://umbrixa.com/site/878-mike-s-grand-store-mike-offers-best"
         },
         {
             "id": 65,
@@ -4949,78 +4445,6 @@
             "umbrixa_url": "https://umbrixa.com/site/996-searxng"
         },
         {
-            "id": 64,
-            "title": "Sito Tor",
-            "onion_url": "http://eozjdgpnnmvcfn3drxtirjcn5c27ydkzqlzn4iptam54eewhji6qlqqd.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "Secure whistleblowing platform based on GlobaLeaks free and open-source software.",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:10:37",
-            "umbrixa_url": "https://umbrixa.com/site/64-sito-tor"
-        },
-        {
-            "id": 71,
-            "title": "Sito Tor",
-            "onion_url": "http://iof5lzfolmwa756kiki3mvoy2ivwd6o3gypn5g7j7geoo4raefua4zqd.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:10:48",
-            "umbrixa_url": "https://umbrixa.com/site/71-sito-tor"
-        },
-        {
-            "id": 343,
-            "title": "Sito Tor",
-            "onion_url": "http://etv6ce3pbbxvfoevihlqir2xik27rb4j2l5sqpx7d2unhtpiz3ffiqad.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "./bin/cdbuilder_log_analyser: Directory cdbuilder-logs.debian.org not found. Quit.",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 12:13:18",
-            "umbrixa_url": "https://umbrixa.com/site/343-sito-tor"
-        },
-        {
-            "id": 127,
-            "title": "Sito Tor",
-            "onion_url": "http://hrznstuh7fklpawxt5asormu5plwkqpnymnop4iptalt67ebpu5osiad.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:11:01",
-            "umbrixa_url": "https://umbrixa.com/site/127-sito-tor"
-        },
-        {
-            "id": 454,
-            "title": "Sito Tor",
-            "onion_url": "http://f3mryj3e2uw2zrv3zv6up6maqosgzn27frz7xodvpl7pkestoyigtkad.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "Secure whistleblowing platform based on GlobaLeaks free and open-source software.",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:30:30",
-            "umbrixa_url": "https://umbrixa.com/site/454-sito-tor"
-        },
-        {
-            "id": 227,
-            "title": "Sito Tor",
-            "onion_url": "http://ckahyzrwglnbgrsehevnugp37nmynopnebvftmjvsxi54fsuqt4nogad.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "Secure whistleblowing platform based on GlobaLeaks free and open-source software.",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:11:39",
-            "umbrixa_url": "https://umbrixa.com/site/227-sito-tor"
-        },
-        {
             "id": 494,
             "title": "Startpage - Private Search Engine. No Tracking. No Search History.",
             "onion_url": "http://startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion",
@@ -5079,18 +4503,6 @@
             "online": false,
             "last_checked": "2026-10-18 12:24:23",
             "umbrixa_url": "https://umbrixa.com/site/552-tor-cloud-search"
-        },
-        {
-            "id": 762,
-            "title": "Tor Search | Verified Search Engine",
-            "onion_url": "http://tz75oxijkjmcix5xctm6jgenqkqqh65ezjhff4ndfuvbxrm4kushmlyd.onion",
-            "clearnet_url": null,
-            "category": "privacy-security",
-            "description": "",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 00:09:36",
-            "umbrixa_url": "https://umbrixa.com/site/762-tor-search-verified-search-engine"
         },
         {
             "id": 773,
@@ -5153,42 +4565,6 @@
             "umbrixa_url": "https://umbrixa.com/site/124-fragdenstaat-portal-fur-informationsfreiheit"
         },
         {
-            "id": 718,
-            "title": "Gold Cryptocurrency : What is it? : WikiBTC",
-            "onion_url": "http://invest2zlxnr374efcy5y4uego2qejuaewh2jnane6vgeigajpto57ad.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "WikiBTC : Gold Cryptocurrency Answers :",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 06:26:36",
-            "umbrixa_url": "https://umbrixa.com/site/718-gold-cryptocurrency-what-is-it-wikibtc"
-        },
-        {
-            "id": 755,
-            "title": "Bitcoin Auto - What is it? - CryptoWiki",
-            "onion_url": "http://invest2ytbrjkm6muqvdb5xu3q3sjb4hc4rquzrh4ox7pyh4xp67phqd.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "CryptoWiki - Bitcoin Auto Answers -",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 00:07:57",
-            "umbrixa_url": "https://umbrixa.com/site/755-bitcoin-auto-what-is-it-cryptowiki"
-        },
-        {
-            "id": 708,
-            "title": "Kinolix Bitcoin : What is it? : WikiCrypto",
-            "onion_url": "http://invest2z7xlaxdhl53aca2nu2neod5cr45zmsvdhsf3p6yjudqqzlvyd.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "WikiCrypto : Kinolix Bitcoin Answers :",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 18:18:15",
-            "umbrixa_url": "https://umbrixa.com/site/708-kinolix-bitcoin-what-is-it-wikicrypto"
-        },
-        {
             "id": 179,
             "title": "Index | tweedge's blog",
             "onion_url": "http://tweedge32j4ib2hrj57l676twj2rwedkkkbr57xcz5z73vpkolws6vid.onion",
@@ -5211,30 +4587,6 @@
             "online": true,
             "last_checked": "2026-10-18 06:00:05",
             "umbrixa_url": "https://umbrixa.com/site/1006-3xpl-fastest-block-explorer"
-        },
-        {
-            "id": 753,
-            "title": "Bitcoin 15 - What is it? - WikiKnowledge",
-            "onion_url": "http://invest2gmqlyshb42fnccwn3yzv6kw3hlrhli2kb7klmqggq2lfsdsid.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "WikiKnowledge - Bitcoin 15 Answers -",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 00:07:40",
-            "umbrixa_url": "https://umbrixa.com/site/753-bitcoin-15-what-is-it-wikiknowledge"
-        },
-        {
-            "id": 717,
-            "title": "Bitcoin Me : What is it? : WikiCrypto",
-            "onion_url": "http://invest2q7duh543awm5mytwkfotbay6rmysgaiuusnooxloo5mcpy5id.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "WikiCrypto : Bitcoin Me Answers :",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 06:26:01",
-            "umbrixa_url": "https://umbrixa.com/site/717-bitcoin-me-what-is-it-wikicrypto"
         },
         {
             "id": 758,
@@ -5307,18 +4659,6 @@
             "online": false,
             "last_checked": "2026-10-18 00:20:52",
             "umbrixa_url": "https://umbrixa.com/site/108-la-rotative-archives-site-collaboratif-d-informations-locale"
-        },
-        {
-            "id": 741,
-            "title": "Ethereum Получить : What is it? : WikiCrypto",
-            "onion_url": "http://invest2qhlvlhpm75m3ho4of5znboktpzrvax473de5pcppsbobf5gad.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "WikiCrypto : Ethereum Получить Answers : 4. Blockchain in Financial Services Many financial services firms are using Blockchain to improve back-office settlement systems, increase efficiency, and reduce costs. Banks like UBS have plans to use tokens for cross-border trades. While the Chamber of Digital Commerce was established to educate and advocate for Blockchain technology in the financial services industry and beyond. The chamber's initiatives include the Blockchain Alliance, which aims to use it to combat criminal activity. And, t",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:01:45",
-            "umbrixa_url": "https://umbrixa.com/site/741-ethereum-what-is-it-wikicrypto"
         },
         {
             "id": 434,
@@ -5489,18 +4829,6 @@
             "umbrixa_url": "https://umbrixa.com/site/351-debconf6-hot-and-spicy"
         },
         {
-            "id": 162,
-            "title": "Home",
-            "onion_url": "http://pfcgmo5hwfffwhis3zty2u2ufryrnzypue34h74va6ykw5iazgcvvtqd.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "This is a personal professional website offering information about the site owner's technical projects, file archives, and a blog with technical content. The site provides access to the owner's CV in English and Swedish versions and advertises consulting services in various technical areas. The owner also highlights FmiGo, a free software co-simulation tool developed at Umeå University.",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:11:32",
-            "umbrixa_url": "https://umbrixa.com/site/162-home"
-        },
-        {
             "id": 10,
             "title": "'When nothing was taboo': 10 intimate images of a lost, decadent 1930s Paris",
             "onion_url": "https://bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion",
@@ -5547,18 +4875,6 @@
             "online": false,
             "last_checked": "2026-10-18 12:03:46",
             "umbrixa_url": "https://umbrixa.com/site/207-beneath-vt-exploring-virginia-tech-s-steam-tunnels-and-beyon"
-        },
-        {
-            "id": 353,
-            "title": "Home page",
-            "onion_url": "http://npqpz7jy56yinqeryzfhxvzkqg3qdqt3la3p3nqq6svrcgjuywyszlid.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "None",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 12:14:38",
-            "umbrixa_url": "https://umbrixa.com/site/353-home-page"
         },
         {
             "id": 199,
@@ -5691,18 +5007,6 @@
             "online": false,
             "last_checked": "2026-10-18 12:30:22",
             "umbrixa_url": "https://umbrixa.com/site/451-index-of"
-        },
-        {
-            "id": 130,
-            "title": "Home",
-            "onion_url": "http://eus53s7cg5h6ifwyz5re7bb2xi67xnbuer4srzticakr2uoyu7oeahqd.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "The Cryptonix Project , is not new, it is not unique even, but it still is vital as any other [dis]organization. We are an open source, ad-hoc, decentralized project aimed at keeping information free and accessible to all individuals, regardless of age, social class, birth or place of residence, rel",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 12:11:22",
-            "umbrixa_url": "https://umbrixa.com/site/130-home"
         },
         {
             "id": 816,
@@ -5909,18 +5213,6 @@
             "umbrixa_url": "https://umbrixa.com/site/379-top-10-summary"
         },
         {
-            "id": 406,
-            "title": "Home page",
-            "onion_url": "http://f4acfe5i73w7sdzhw27hzaz4m4nkfh5snnlhaqjk7eejfuvxgqarq2qd.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "miniDebConf Berlin 2024",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:27:51",
-            "umbrixa_url": "https://umbrixa.com/site/406-home-page"
-        },
-        {
             "id": 316,
             "title": "onion.debian.org",
             "onion_url": "http://jvgypgbnfyvfopg5msp6nwr2sl2fd6xmnguq35n7rfkw3yungjn2i4yd.onion",
@@ -6017,18 +5309,6 @@
             "umbrixa_url": "https://umbrixa.com/site/36-harica-trust-services-focused-on-your-needs"
         },
         {
-            "id": 222,
-            "title": "ADAMANT Messenger",
-            "onion_url": "http://adamant6457join2rxdkr2y7iqatar7n4n72lordxeknj435i4cjhpyd.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 12:08:44",
-            "umbrixa_url": "https://umbrixa.com/site/222-adamant-messenger"
-        },
-        {
             "id": 252,
             "title": "Archaic Binary Telnet BBS System",
             "onion_url": "http://2rwwci63bq33gupmks3x2lboqld3x2ody3sowksxhl4ymrey7wlddoyd.onion",
@@ -6065,18 +5345,6 @@
             "umbrixa_url": "https://umbrixa.com/site/192-bombagy-r"
         },
         {
-            "id": 815,
-            "title": "Cash Is King – The Original Crew!",
-            "onion_url": "http://cashkiuhxzhf4ddewgauyvndcq2i4pt2yytxglzs3t4qmimtxv5n6eid.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-19 00:19:04",
-            "umbrixa_url": "https://umbrixa.com/site/815-cash-is-king-the-original-crew"
-        },
-        {
             "id": 297,
             "title": "Client Area - Hiddence",
             "onion_url": "http://hiddencegba2kbss2546ae3f5oax2vfhnqfd6vreihu5xfoyxuqrnsad.onion",
@@ -6099,30 +5367,6 @@
             "online": true,
             "last_checked": "2026-10-18 06:29:05",
             "umbrixa_url": "https://umbrixa.com/site/724-darknetpedia-access-queue"
-        },
-        {
-            "id": 399,
-            "title": "DebConf15 15 Aug - 22 Aug 2015 | The Summit Scheduler",
-            "onion_url": "http://ruye4n75ifmwqtbj6d43yczflptvz6sttdqvyb4bukds2z2j5qgivaqd.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "",
-            "language": "en",
-            "online": false,
-            "last_checked": "2026-10-18 12:19:03",
-            "umbrixa_url": "https://umbrixa.com/site/399-debconf15-15-aug-22-aug-2015-the-summit-scheduler"
-        },
-        {
-            "id": 420,
-            "title": "Debian Project Timeline - a timeline of the Debian Project",
-            "onion_url": "http://ck2b4sppxizlsdj5cuwan6gdiee3fzrw6jlxep7htgy7euxa4m6uukid.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-19 00:00:53",
-            "umbrixa_url": "https://umbrixa.com/site/420-debian-project-timeline-a-timeline-of-the-debian-project"
         },
         {
             "id": 354,
@@ -6183,18 +5427,6 @@
             "online": false,
             "last_checked": "2026-10-19 00:04:50",
             "umbrixa_url": "https://umbrixa.com/site/522-f-droid-repository-gratuita-e-open-source-di-app-android"
-        },
-        {
-            "id": 344,
-            "title": "Home page",
-            "onion_url": "http://5fyzyfcfqqww47ydvf2v226dfrxpe4xdoc6wkbacc4v5lcuh6covd3ad.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "Debian Reunion Hamburg 2023",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:13:25",
-            "umbrixa_url": "https://umbrixa.com/site/344-home-page"
         },
         {
             "id": 456,
@@ -6269,18 +5501,6 @@
             "umbrixa_url": "https://umbrixa.com/site/940-loading-pitch"
         },
         {
-            "id": 182,
-            "title": "Loading...",
-            "onion_url": "http://btcgenebobaz7udchqkhj4aqnauhfhjqhwpshmwem66wphkb7qqnrtad.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "Loading... Please enable Javascript to continue",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 06:19:17",
-            "umbrixa_url": "https://umbrixa.com/site/182-loading"
-        },
-        {
             "id": 907,
             "title": "Mamot - Le Mastodon de La Quadrature du Net",
             "onion_url": "http://mamoteqvcadrmfs6ryykna4wpxhtsuzbpt4z7lxnqvx3qtse5xmk2fqd.onion",
@@ -6353,18 +5573,6 @@
             "umbrixa_url": "https://umbrixa.com/site/461-nowhere"
         },
         {
-            "id": 500,
-            "title": "null chan",
-            "onion_url": "http://2kmw4vx2gphsktjnowpmkznja7l7ljql7tjg6hk54j6juxsffaegvmad.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 06:11:54",
-            "umbrixa_url": "https://umbrixa.com/site/500-null-chan"
-        },
-        {
             "id": 611,
             "title": "Page not found – 🇬🇷 🛑 🕌",
             "onion_url": "http://greecee6m4nzlf7ob6mvdzet7p4uvrlephws43zn3vuukgbi4yjpbnid.onion",
@@ -6375,30 +5583,6 @@
             "online": false,
             "last_checked": "2026-10-18 06:19:05",
             "umbrixa_url": "https://umbrixa.com/site/611-page-not-found"
-        },
-        {
-            "id": 471,
-            "title": "Prometheus Time Series Collection and Processing Server",
-            "onion_url": "http://uwkznof42jqlxzqlbp4xctv46ozfi6muecnstspvdfd4r22nmq2cuwqd.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:31:08",
-            "umbrixa_url": "https://umbrixa.com/site/471-prometheus-time-series-collection-and-processing-server"
-        },
-        {
-            "id": 472,
-            "title": "Prometheus Time Series Collection and Processing Server",
-            "onion_url": "http://tthezy6mn2b4hjnimslevg7tyjtnm62wpegehasy3vu7xx3zerncxzqd.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:31:14",
-            "umbrixa_url": "https://umbrixa.com/site/472-prometheus-time-series-collection-and-processing-server"
         },
         {
             "id": 317,
@@ -6435,18 +5619,6 @@
             "online": false,
             "last_checked": "2026-10-18 00:18:51",
             "umbrixa_url": "https://umbrixa.com/site/620-schleuder-login"
-        },
-        {
-            "id": 46,
-            "title": "share.riseup.net",
-            "onion_url": "http://2pyimbpxocupne6nbekma4dygkobl36sblei6ttknbm4kfh3r7jlpzyd.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "",
-            "language": "en-us",
-            "online": false,
-            "last_checked": "2026-10-19 00:21:20",
-            "umbrixa_url": "https://umbrixa.com/site/46-share-riseup-net"
         },
         {
             "id": 208,
@@ -6531,30 +5703,6 @@
             "online": true,
             "last_checked": "2026-10-18 06:23:52",
             "umbrixa_url": "https://umbrixa.com/site/205-this-page-has-been-moved-to-en"
-        },
-        {
-            "id": 836,
-            "title": "VirginBitcoins",
-            "onion_url": "http://5kpq325ecpcncl4o2xksvaso5tuydwj2kuqmpgtmu3vzfxkpiwsqpfid.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "",
-            "language": "en",
-            "online": true,
-            "last_checked": "2026-10-18 12:24:48",
-            "umbrixa_url": "https://umbrixa.com/site/836-virginbitcoins"
-        },
-        {
-            "id": 544,
-            "title": "Weryfikacja",
-            "onion_url": "http://blikooww5pop3tay3o6qtgfjc32ypvzrcjfdc752zznf3lmnyx54l4yd.onion",
-            "clearnet_url": null,
-            "category": "technology",
-            "description": "",
-            "language": "pl",
-            "online": false,
-            "last_checked": "2026-10-18 12:22:32",
-            "umbrixa_url": "https://umbrixa.com/site/544-weryfikacja"
         },
         {
             "id": 223,
