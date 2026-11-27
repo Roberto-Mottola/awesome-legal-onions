@@ -2,42 +2,42 @@
     "source": "https://umbrixa.com",
     "report_url": "https://umbrixa.com/state-of-the-onion",
     "license": "CC-BY-4.0",
-    "generated_at": "2026-11-26T06:20:01+00:00",
+    "generated_at": "2026-11-27T06:20:02+00:00",
     "verified_active": 481,
     "listed_in_readme": 481,
     "with_clearnet_mirror": 224,
     "pct_with_clearnet": 47,
-    "online_at_last_check": 382,
+    "online_at_last_check": 379,
     "pct_online": 79,
     "filtered_out_as_unsafe": 500,
     "by_category": {
         "privacy-security": {
             "label": "Privacy & Security",
-            "count": 239
+            "count": 238
         },
         "journalism": {
             "label": "Journalism & Whistleblowing",
-            "count": 44
+            "count": 47
         },
         "politics-rights": {
             "label": "Politics & Civil Rights",
-            "count": 4
+            "count": 3
         },
         "technology": {
             "label": "Technology",
-            "count": 108
+            "count": 105
         },
         "community-forums": {
             "label": "Community & Forums",
-            "count": 22
+            "count": 21
         },
         "academic-resources": {
             "label": "Academic Resources",
-            "count": 3
+            "count": 4
         },
         "anonymous-services": {
             "label": "Anonymous Services",
-            "count": 28
+            "count": 30
         },
         "media-culture": {
             "label": "Media & Culture",
